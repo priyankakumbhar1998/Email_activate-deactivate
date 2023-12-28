@@ -1,0 +1,6 @@
+ERROR 2023-12-26 23:34:50,399 views error_logger failed to create APPointment : {'date': [ErrorDetail(string='Date has wrong format. Use one of these formats instead: YYYY-MM-DD.', code='invalid')]}
+ERROR 2023-12-26 23:36:52,487 views error_logger There is an error fetching all data
+ERROR 2023-12-26 23:37:45,792 views error_logger There is an error fetching the appointment details
+ERROR 2023-12-26 23:43:01,541 views error_logger Failed to delete Appointment
+ERROR 2023-12-28 10:58:18,206 views error_logger error in deleting users
+ERROR 2023-12-28 11:04:03,420 views error_logger Authentication credentials were not provided.

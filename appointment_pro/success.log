@@ -1,0 +1,14 @@
+INFO 2023-12-26 23:35:10,947 views success_logger appointment with id 1 created successfully!
+INFO 2023-12-26 23:36:16,006 views success_logger appointment with id 2 created successfully!
+INFO 2023-12-26 23:36:48,147 views success_logger appointment with id 3 created successfully!
+INFO 2023-12-26 23:37:17,861 views success_logger all appointment fetched successfully!!!
+INFO 2023-12-26 23:37:45,783 views success_logger Appointment details fetched : {'id': 1, 'patient_name': 'Neha', 'patient_no': 1, 'doctor_name': 'DR. Sneha Bhosle', 'date': '2024-01-11'}
+INFO 2023-12-26 23:40:07,399 views success_logger Appointment updated!! : Appointment object (3)
+INFO 2023-12-26 23:43:56,447 views success_logger Appointment details fetched : {'id': 1, 'patient_name': 'Neha', 'patient_no': 1, 'doctor_name': 'DR. Sneha Bhosle', 'date': '2024-01-11'}
+INFO 2023-12-28 10:57:43,099 views success_logger users fetched successfully
+INFO 2023-12-28 10:58:59,076 views success_logger users fetched successfully
+INFO 2023-12-28 11:00:22,782 views success_logger user created with username niki
+INFO 2023-12-28 11:02:25,701 views success_logger Appointment details fetched : {'id': 1, 'patient_name': 'Neha', 'patient_no': 1, 'doctor_name': 'DR. Sneha Bhosle', 'date': '2024-01-11'}
+INFO 2023-12-28 11:02:33,747 views success_logger all appointment fetched successfully!!!
+INFO 2023-12-28 11:04:23,822 views success_logger user niki is deactivated successfully
+INFO 2023-12-28 11:05:33,485 views success_logger all appointment fetched successfully!!!
